@@ -2,7 +2,7 @@
 Simply download it and import the files from your CSS library.<br />
 <br />
 Download or clone the code.<br /> 
-```git clone https://github.com/brandedux/lux.git```<br />
+```git clone https://github.com/branded-ux/LUX.git```<br />
 <br />
 + [Palette](https://brandedux.github.io/palette)<br />
 + [Scribe](https://brandedux.github.io/scribe)<br />
